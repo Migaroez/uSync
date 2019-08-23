@@ -15,8 +15,10 @@ perform an export of your settings from the site.
 - Templates
 - Macros
 - Languages
-- Dictionary Items
 - Member Types *(disabled by default)*
+- Dictionary Items *(using Content Edition)*
+- Content nodes *(using Content Edition)*
+- Media nodes *(using Content Edition)*
 
 the export will be placed in the ```uSync/data``` folder within your Umbraco site.
 
